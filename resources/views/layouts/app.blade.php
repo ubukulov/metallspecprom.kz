@@ -1,17 +1,10 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-N66SNJJ');</script>
-    <!-- End Google Tag Manager -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>TOO "KazMetallStal-Almaty"</title>
+    <title>TOO "MetallSpecProm"</title>
 	<meta name="google-site-verification" content="6vU62eJpSFGSCW-3Lcx8pCInwjgQ3k8qU7nEgUzEcMo">
 
 {{--    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">--}}
@@ -20,37 +13,15 @@
 
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('css/media.css') }}">
-	<script src="//code.jivosite.com/widget.js" data-jv-id="TQpg5fgreN" async></script>
-	<!-- Yandex.Metrika counter -->
-	<script type="text/javascript" >
-	   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-	   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-	   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-	   ym(55010416, "init", {
-			clickmap:true,
-			trackLinks:true,
-			accurateTrackBounce:true,
-			webvisor:true,
-			ecommerce:"dataLayer"
-	   });
-	</script>
-	<noscript><div><img src="https://mc.yandex.ru/watch/55010416" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-	<!-- /Yandex.Metrika counter -->
 </head>
 <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript>
-    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N66SNJJ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<!-- End Google Tag Manager (noscript) -->
 <div id="wrap">
     <div class="row">
         <div class="col-md-3">
             <div class="left-side">
                 <div style="padding: 20px 20px 30px 20px; text-align: center;">
                     <a href="/">
-						<img width="200" src="{{ asset('img/logo.png') }}"
+						<img width="200" src="{{ asset('img/logo.png') }}">
 					</a>
                 </div>
                 <div id='cssmenu'>
@@ -112,7 +83,7 @@
 
                                 <div class="em">
                                     <span>Email:</span> <br>
-                                    <i class="far fa-envelope"></i>&nbsp;<a href="mailto:info@metaloprokat.kz">info@metaloprokat.kz</a>
+                                    <i class="far fa-envelope"></i>&nbsp;<a href="mailto:info@metallspecprom.kz">info@metallspecprom.kz</a>
                                 </div>
                             </div>
                         </div>
@@ -142,7 +113,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <div style="padding: 10px 0;">
-                                        TOO "Kazmetallstal-Almaty"
+                                        TOO "MetallSpecProm"
                                     </div>
                                     <div>2019&nbsp;&copy;&nbsp;Все правы защищены</div>
                                 </div>
@@ -213,7 +184,7 @@
 <script type="text/javascript">
     (function () {
         var options = {
-            whatsapp: "+77711714427", // WhatsApp number
+            whatsapp: "+77013753434", // WhatsApp number
             company_logo_url: "//static.whatshelp.io/img/flag.png", // URL of company logo (png, jpg, gif)
             greeting_message: "Здравствуйте! Отправьте нам сообщение через любой из мессенджеров.", // Text of greeting message
             call_to_action: "Напишите на WhatsApp", // Call to action
