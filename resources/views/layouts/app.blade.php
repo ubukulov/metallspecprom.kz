@@ -64,21 +64,15 @@
                             </div>
 
                             <div class="col-md-10 top_contancts">
-                                <div class="pr">
-                                    <span>Приемная</span> <br>
-                                    <i class="fas fa-tty"></i>&nbsp;<a href="tel:+7 (727) 222-01-28">+7 (727) 222-01-28</a>
-                                </div>
-
                                 <div class="ot_p">
                                     <span>Отдел продаж</span><br>
-                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (771) 171-44-27">+7 (771) 171-44-27</a><br>
-                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (771) 171-44-26">+7 (771) 171-44-26</a><br>
-                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (771) 171-44-25">+7 (771) 171-44-25</a><br>
+                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (702) 946-77-30">+7 (702) 946-77-30</a><br>
+                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (771) 167-70-82">+7 (771) 167-70-82</a><br>
                                 </div>
 
                                 <div class="ot_z">
-                                    <span>Отдел по заключению контрактов</span><br>
-                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (771) 171-44-28">+7 (771) 171-44-28</a>
+                                    <span>Директор</span><br>
+                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (701) 375-34-34">+7 (701) 375-34-34</a>
                                 </div>
 
                                 <div class="em">
@@ -120,10 +114,9 @@
 
                                 <div class="col-md-8">
                                     <div class="footer-phones" style="text-align: right; padding: 0px 20px;">
-                                        <a href="tel:+7 (727) 222-01-28" style="margin-right: 20px;">+7 (727) 222-01-28</a>
-                                        <a href="tel:+7 (771) 171-44-25">+7 (771) 171-44-25</a><br>
-                                        <a href="tel:+7 (771) 171-44-26" style="margin-right: 20px;">+7 (771) 171-44-26</a>
-                                        <a href="tel:+7 (771) 171-44-27">+7 (771) 171-44-27</a><br>
+                                        <a href="tel:+7 (701) 375-34-34">+7 (701) 375-34-34</a><br>
+                                        <a href="tel:+7 (702) 946-77-30" style="margin-right: 20px;">+7 (702) 946-77-30</a>
+                                        <a href="tel:+7 (771) 167-70-82">+7 (771) 167-70-82</a><br>
                                     </div>
                                 </div>
                             </div>
