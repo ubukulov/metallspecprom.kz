@@ -70,14 +70,14 @@ class IndexController extends BaseController
             </html>    
             ";
         }
-        $to = 'info@metaloprokat.kz';
+        $to = 'info@metallspecprom.kz';
 //        $to = 'info@metaloprokat.kz' . ', ';
 //        $to .= 'kairat_ubukulov@mail.ru';
         $subject = 'Новая заявка';
         $headers = "MIME-Version: 1.0\r\n";
         $headers .= "Content-Type: text/html; charset=utf-8\r\n";
 
-        $headers .= "From: <order@metaloprokat.kz>\r\n";
+        $headers .= "From: <order@metallspecprom.kz>\r\n";
         mail($to, $subject, $message, $headers);
         return redirect()->back();
     }
