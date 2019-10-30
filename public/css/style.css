@@ -225,7 +225,6 @@ body {
 .left-side {
     /*background: #f5f5f5;*/
     height: 100%;
-    background: url("../img/lft_bg.jpg") center center;
     background-size: cover;
 }
 .footer {
