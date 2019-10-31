@@ -77,7 +77,7 @@
 
                                 <div class="em">
                                     <span>Email:</span> <br>
-                                    <i class="far fa-envelope"></i>&nbsp;<a href="mailto:info@metallspecprom.kz">info@metallspecprom.kz</a>
+                                    <i class="far fa-envelope"></i>&nbsp;<a href="mailto:metallspecprom@mail.ru">metallspecprom@mail.ru</a>
                                 </div>
                             </div>
                         </div>
