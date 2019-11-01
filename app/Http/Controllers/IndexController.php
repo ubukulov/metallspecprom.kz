@@ -70,7 +70,7 @@ class IndexController extends BaseController
             </html>    
             ";
         }
-        $to = 'info@metallspecprom.kz';
+        $to = 'metallspecprom@mail.ru';
 //        $to = 'info@metaloprokat.kz' . ', ';
 //        $to .= 'kairat_ubukulov@mail.ru';
         $subject = 'Новая заявка';

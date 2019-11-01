@@ -66,6 +66,7 @@
                             <div class="col-md-10 top_contancts">
                                 <div class="ot_p">
                                     <span>Отдел продаж</span><br>
+                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (701) 375-34-34">+7 (701) 375-34-34</a><br>
                                     <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (702) 946-77-30">+7 (702) 946-77-30</a><br>
                                     <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (771) 167-70-82">+7 (771) 167-70-82</a><br>
                                 </div>
