@@ -52,6 +52,14 @@
                 </a>
             </li>
 
+            <li>
+                <a href="{{ route('settings.index') }}">
+                    <i class="fa fa-th"></i> <span>Настройки</span>
+                    <span class="pull-right-container">
+            </span>
+                </a>
+            </li>
+
             {{--
             <li class="treeview">
                 <a href="#">

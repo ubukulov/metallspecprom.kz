@@ -6,5 +6,5 @@ Route::group(['prefix' => 'admin', 'middleware' => ['web', 'admin'], 'namespace'
     Route::resource('/category', 'CategoryController');
     Route::resource('/product', 'ProductController');
     Route::resource('/page', 'PageController');
-
+    Route::resource('/settings', 'SettingController');
 });

@@ -66,19 +66,22 @@
                             <div class="col-md-10 top_contancts">
                                 <div class="ot_p">
                                     <span>Отдел продаж</span><br>
-                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (701) 375-34-34">+7 (701) 375-34-34</a><br>
-                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (702) 946-77-30">+7 (702) 946-77-30</a><br>
-                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (771) 167-70-82">+7 (771) 167-70-82</a><br>
+                                    @php
+                                        $phones = explode(',', $settings->top_contact_sells);
+                                    @endphp
+                                    @foreach($phones as $phone)
+                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:{{ $phone }}">{{ $phone }}</a><br>
+                                    @endforeach
                                 </div>
 
                                 <div class="ot_z">
                                     <span>Директор</span><br>
-                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:+7 (701) 375-34-34">+7 (701) 375-34-34</a>
+                                    <i class="fas fa-mobile-alt"></i>&nbsp;<a href="tel:{{ $settings->director_contact }}">{{ $settings->director_contact }}</a>
                                 </div>
 
                                 <div class="em">
                                     <span>Email:</span> <br>
-                                    <i class="far fa-envelope"></i>&nbsp;<a href="mailto:metallspecprom@mail.ru">metallspecprom@mail.ru</a>
+                                    <i class="far fa-envelope"></i>&nbsp;<a href="mailto:{{ $settings->email }}">{{ $settings->email }}</a>
                                 </div>
                             </div>
                         </div>
