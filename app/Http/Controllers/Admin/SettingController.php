@@ -2,11 +2,12 @@
 
 namespace App\Http\Controllers\Admin;
 
+use App\Http\Controllers\BaseController;
 use App\Settings;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 
-class SettingController extends Controller
+class SettingController extends BaseController
 {
     /**
      * Display a listing of the resource.
